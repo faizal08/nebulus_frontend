@@ -8,6 +8,7 @@ function App() {
       <div>Hello ivin</div>
       <div>Hello fayis</div>
       <div>Hello Sojin</div>
+      <div>Hello faris</div>
     </>
   );
 }
