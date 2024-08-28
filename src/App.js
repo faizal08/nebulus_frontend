@@ -9,6 +9,7 @@ function App() {
       <div>Hello fayis</div>
       <div>Hello Sojin</div>
       <div>Hello faris</div>
+      <div>Hello faris</div>
     </>
   );
 }
